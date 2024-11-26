@@ -10,4 +10,4 @@ Japanese
 
 https://en.wikipedia.org/wiki/Soroban
 
-base
+base decimal(10)
